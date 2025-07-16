@@ -30,6 +30,6 @@ Premium Features
 
 ⚙️ Getting Started
 
-git clone https://github.com/Udayanga-Deeshan/Blog-App.git
-cd blog-app
-npm install
+- git clone https://github.com/Udayanga-Deeshan/Blog-App.git
+- cd blog-app
+- npm install
